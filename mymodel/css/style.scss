@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  font-size: 0.16rem;
+  }
+
+html, body, .wrap {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box; 
+  
+   }
+
+html {
+  user-selector: none; }
+
+ %qjz{
+ 	display:flex;
+ 	justify-content:center;
+ 	align-items:center;
+ }
+ %qjy{
+ 	display:flex;
+ 	justify-content:flex-end;
+ 	align-items:center;	
+ }
+ %qjzuo{
+ 	display:flex;
+ 	justify-content:flex-start;
+ 	align-items:center;
+ }
+ 
